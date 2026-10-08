@@ -260,12 +260,7 @@ in
 
 ---
 
-## 💼 Professional Resume Bullet Point
+## 📊 Executive Dashboard Preview
 
-> *"Architected an end-to-end **GenAI Credit Risk & Compliance Copilot** using **FastAPI, Pandas, SQLite, and Google Gemini 1.5 Pro**, establishing an automated ETL and SQL risk engine that monitored **$69M+** in corporate transactions to detect regulatory anomalies (threshold breaches >$1M, 7-day velocity spikes, offshore exposure, and CTR structuring), reducing compliance investigation turnaround by **85%** and feeding real-time JSON analytics directly into executive **Power BI** dashboards."*
+![Credit Risk & Compliance Power BI Executive Dashboard](dashboard_screenshot.png)
 
-### Key Competencies Highlighted:
-- **Data Engineering & ETL:** High-throughput data ingestion, strict type enforcement, and automated database upserts with Pandas and SQLite.
-- **SQL Analytics & Forensic Modeling:** Complex analytical window expressions, multi-day rolling velocity calculations, and composite risk scoring.
-- **Applied Generative AI:** Prompt engineering with Google Gemini 1.5 Pro to synthesize unstructured financial logs into formal Bank Secrecy Act / SAR compliance reports.
-- **API & BI Integration:** Production-grade REST architecture with FastAPI and Uvicorn delivering formatted live endpoints for Power BI Web Connectors.
